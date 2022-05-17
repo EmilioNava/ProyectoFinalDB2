@@ -1,0 +1,36 @@
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900-19-5983.csproj.AssemblyReference.cache
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.Form1.resources
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.Properties.Resources.resources
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900-19-5983.csproj.GenerateResource.cache
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900-19-5983.csproj.CoreCompileInputs.cache
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\bin\Debug\proyecto_final_DB1_0900-19-5983.exe.config
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\bin\Debug\proyecto_final_DB1_0900-19-5983.exe
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\bin\Debug\proyecto_final_DB1_0900-19-5983.pdb
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900-19-5983.exe
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900-19-5983.pdb
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.Form2.resources
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.Form3.resources
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.inicio.resources
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.anuncio.resources
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.calificacion.resources
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.orden.resources
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.Bitacora.resources
+C:\Users\ebcn0\source\repos\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.detalle_orden.resources
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\bin\Debug\proyecto_final_DB1_0900-19-5983.exe.config
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\bin\Debug\proyecto_final_DB1_0900-19-5983.exe
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\bin\Debug\proyecto_final_DB1_0900-19-5983.pdb
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900-19-5983.csproj.AssemblyReference.cache
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.anuncio.resources
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.Bitacora.resources
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.calificacion.resources
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.detalle_orden.resources
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.Form1.resources
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.Form2.resources
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.Form3.resources
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.inicio.resources
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.orden.resources
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900_19_5983.Properties.Resources.resources
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900-19-5983.csproj.GenerateResource.cache
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900-19-5983.csproj.CoreCompileInputs.cache
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900-19-5983.exe
+C:\Users\ebcn0\Desktop\PROYECTO FINAL BASE DE DATOS\proyecto_final_DB1_0900-19-5983\proyecto_final_DB1_0900-19-5983\obj\Debug\proyecto_final_DB1_0900-19-5983.pdb
